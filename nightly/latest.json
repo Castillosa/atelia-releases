@@ -1,39 +1,39 @@
 {
-  "version": "0.15.0-rc.2",
+  "version": "0.16.0-rc.1",
   "notes": "Build experimental de Atelia (Nightly), Windows + macOS + Linux. Se instala en paralelo al estable y se auto-actualiza entre RCs. No es para producción.",
-  "pub_date": "2026-07-02T07:44:02.606Z",
+  "pub_date": "2026-07-02T12:59:55.634Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkJIZ3FTeUtOanN3dTJHc0YrcjJ4bTROVml4NzR3L0RVZTZJa3laTGZKY0FRa2xQMGViMm5uRTA2OUI3ODJYYlhsSVhTcDA2RFdLMUZmV1dTMnRMK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3NzAyCWZpbGU6QXRlbGlhIE5pZ2h0bHkuYXBwLnRhci5negovaGNsYkFVYXBLMnYraEl1aEhLSnZRSjRFUlZSTkFabm1UZC9oeFJlTHJPZXNINHN3UGovbXhkV2tnc0t2VHZDQ3FmTGlyZ2NqRWRaaXI3RHNTWHFCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkNhRGRaU05hRDZKRXRIdnloNFRBbmtsWFg1aUZlRDd3ZVZsdWF2QkYycDVuNXRBK204d25TRnoydEcvbkVoNzBxc2xsdFZDT0gyZTU4TVFJTk9Ya2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2NzEwCWZpbGU6QXRlbGlhIE5pZ2h0bHkuYXBwLnRhci5negoyeCsyU1BodVJVNlVOWG1DY3FiVTNaZUFsY2lZZmd2bFZCbmtkYkhKNjdEdlY3U2pKOG1qM0RucjZvUUZTTGNQelVFbHlXaXF1V01OUFJ6eDlWY29EQT09Cg==",
       "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkJIZ3FTeUtOanN3dTJHc0YrcjJ4bTROVml4NzR3L0RVZTZJa3laTGZKY0FRa2xQMGViMm5uRTA2OUI3ODJYYlhsSVhTcDA2RFdLMUZmV1dTMnRMK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3NzAyCWZpbGU6QXRlbGlhIE5pZ2h0bHkuYXBwLnRhci5negovaGNsYkFVYXBLMnYraEl1aEhLSnZRSjRFUlZSTkFabm1UZC9oeFJlTHJPZXNINHN3UGovbXhkV2tnc0t2VHZDQ3FmTGlyZ2NqRWRaaXI3RHNTWHFCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkNhRGRaU05hRDZKRXRIdnloNFRBbmtsWFg1aUZlRDd3ZVZsdWF2QkYycDVuNXRBK204d25TRnoydEcvbkVoNzBxc2xsdFZDT0gyZTU4TVFJTk9Ya2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2NzEwCWZpbGU6QXRlbGlhIE5pZ2h0bHkuYXBwLnRhci5negoyeCsyU1BodVJVNlVOWG1DY3FiVTNaZUFsY2lZZmd2bFZCbmtkYkhKNjdEdlY3U2pKOG1qM0RucjZvUUZTTGNQelVFbHlXaXF1V01OUFJ6eDlWY29EQT09Cg==",
       "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkEvYVJNTnNTTUZsOEJ5b2o3UzBkd3drRGhWazRwaURNQkxxMXgxcS91V2dmZGhWMmJUMGNET3ZEVE9BS0EvaUYxa1ltbkdyeEJRVmVVclNMOThuSUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3OTg2CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNS4wLXJjLjJfYW1kNjQuQXBwSW1hZ2UKWHRRUklacGMzTTF1azZyWkZjeGUybnBJdngzVEc3eEJkLzQ1c0FVL3YwU2VOS0ZZV01qd1ZGUWVpUCtVbnRvemNwbUErNEh0ZXdpRzdZTWZrVHd0QUE9PQo=",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.15.0-rc.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk12dGtpb2tqeHZiTmRid1BvY0xXUVBQN24zZ1dtODFpM2FWL3FqcER3djFwSlFRVkNXaHFVRTArQ0tJNnQ4b0RSVU5vd0ZkMEVlZmlQa2dBVUpXRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2OTI4CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNi4wLXJjLjFfYW1kNjQuQXBwSW1hZ2UKVXBjYWthdWJLaUxhTnNCanV1K2RiNVlYWW9rWThLbjkvV1pEMCtJQWVwN29jVHRwc00yQXdNMitTaExrdzF1cnhPVVIvdE92R0E5REdZdytENWl2REE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.16.0-rc.1_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkEvYVJNTnNTTUZsOEJ5b2o3UzBkd3drRGhWazRwaURNQkxxMXgxcS91V2dmZGhWMmJUMGNET3ZEVE9BS0EvaUYxa1ltbkdyeEJRVmVVclNMOThuSUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3OTg2CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNS4wLXJjLjJfYW1kNjQuQXBwSW1hZ2UKWHRRUklacGMzTTF1azZyWkZjeGUybnBJdngzVEc3eEJkLzQ1c0FVL3YwU2VOS0ZZV01qd1ZGUWVpUCtVbnRvemNwbUErNEh0ZXdpRzdZTWZrVHd0QUE9PQo=",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.15.0-rc.2_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk12dGtpb2tqeHZiTmRid1BvY0xXUVBQN24zZ1dtODFpM2FWL3FqcER3djFwSlFRVkNXaHFVRTArQ0tJNnQ4b0RSVU5vd0ZkMEVlZmlQa2dBVUpXRnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2OTI4CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNi4wLXJjLjFfYW1kNjQuQXBwSW1hZ2UKVXBjYWthdWJLaUxhTnNCanV1K2RiNVlYWW9rWThLbjkvV1pEMCtJQWVwN29jVHRwc00yQXdNMitTaExrdzF1cnhPVVIvdE92R0E5REdZdytENWl2REE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.16.0-rc.1_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkZxY2NRa1VCU1V2ZVZ4YllwS0xkRGNWYTFqc1gxelZPb0dIWk5TdFE0VmE5UWt1d1d6K0R3dHJLb3dBNWtxTDNnRzREbnBtTnlEMW5JWmlKOGxTc2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3OTg2CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNS4wLXJjLjJfYW1kNjQuZGViCnJlcy9PTmhETjltbVRaa0Y0dWhTNkVWeW5CNENla0tacFdLOVhaWDFCa2owc0N5eVRNNjk4MDF6RG42bjVaTnBUcVgzM2RDUFFmRVFPNzJRZFIyNEFRPT0K",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.15.0-rc.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkxvSGNZck5SVmR3a1Z5cXpJdlFGZXlpMXgyb0dRU0grY2M1Q3p1OWRsdFlQYnV4TER1S1dVd0QybkJKZHdidWh1a0tMZnN2T3QycmVOMmlGZzRBRmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2OTI5CWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNi4wLXJjLjFfYW1kNjQuZGViCnlxQXFSbjNVTDVwY3A2clRLclEvdVpibEVFS3RxN2NxTzlvOTJLT1VUM1A4RkhpekowcitVQjYvT0FNVlkvM0QvZExYdXNWRjMzMTFWMEtldzRyb0FBPT0K",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.16.0-rc.1_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk4wcDc0YnpieWdhSkdEaHo4S25HRm5VbHJ2dktIVVk0SXNOVE00SlZubjRMcXcrbDhXTzNJb2lQdFRQN29pb0Exd1lBUVRVNHNUOVRZRWN0U0lRTVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc3OTg2CWZpbGU6QXRlbGlhIE5pZ2h0bHktMC4xNS4wLXJjLjItMS54ODZfNjQucnBtCkFXL0xkRVN3U21peDlIbFBvZFNFbThEVkpnRkR3bHVjTTM3SmxJdVF2WG5XMzA5ZE5MV3Frc05WbXFnVGtFMENKUWw3dW1TN3hBdHZrNlhab0tDU0RBPT0K",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly-0.15.0-rc.2-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkc0bmhWV2dlaFRJRzFxM1ZIczNrOWpQM0dwUnNKcTNVa0ZCTlFveXVpdEVxNUQycDVjNExIdHZJMGFqSFhiZS8zTzd3YjlYSXptY0lBMnkvcTB1QWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk2OTI5CWZpbGU6QXRlbGlhIE5pZ2h0bHktMC4xNi4wLXJjLjEtMS54ODZfNjQucnBtCnRObEN3ZDd6R2xKaGkwVHJQeUtmKzBpSzR3TTRlUXNNZDh4dFFMeEtKY3k0L2dvMHJTTDBiTDdud3BneDcrR3B6UDI4STVQSE1FdFUrUWJIV0JqK0JRPT0K",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly-0.16.0-rc.1-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkpIZVEvUzVwWXN4NjVjemwzajBxNHl3MFhKNUF0aVRSZGtSRmF3ckEvNFpja2N0OG95R2d4L1dEQnBENkR5L0w5dU41TTE1eU9DbHJHK0F5OGtZb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc4MjQwCWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNS4wLXJjLjJfeDY0LXNldHVwLmV4ZQpXVG9DKzFtSDlCUUtxSzZURTh4MjE5NWhrTGM0TW8yOVYyblB6RlRnZDhITU9LdmhLbVpEK05jcVRCVjhob21pekhod2lHYW5XVGhMdlZLa1BQbC9Ddz09Cg==",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.15.0-rc.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dktYckpaemZ4U1F4eFlNUHh3NStTN3RIS1FTY3ZKSEk0MkVNT3g3WnI0eHR3SmgxVnUyUHFkc2pmRUE4SUxqU2RIMlZ3cEJVWFM3bzRmalk3QnZEd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk3MTkzCWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNi4wLXJjLjFfeDY0LXNldHVwLmV4ZQp6bHgxeC9IREpFN2Z1M1p3ZlhFQW1mNkhReE8xSzBnN3pPVnprNVllY3dDaGFJWnIzbmtIeXpTRFZwNk8wK0pUVUd0cmlOV1l5TlRWRk5jRDN1MktCQT09Cg==",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.16.0-rc.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkpIZVEvUzVwWXN4NjVjemwzajBxNHl3MFhKNUF0aVRSZGtSRmF3ckEvNFpja2N0OG95R2d4L1dEQnBENkR5L0w5dU41TTE1eU9DbHJHK0F5OGtZb0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTc4MjQwCWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNS4wLXJjLjJfeDY0LXNldHVwLmV4ZQpXVG9DKzFtSDlCUUtxSzZURTh4MjE5NWhrTGM0TW8yOVYyblB6RlRnZDhITU9LdmhLbVpEK05jcVRCVjhob21pekhod2lHYW5XVGhMdlZLa1BQbC9Ddz09Cg==",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.15.0-rc.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dktYckpaemZ4U1F4eFlNUHh3NStTN3RIS1FTY3ZKSEk0MkVNT3g3WnI0eHR3SmgxVnUyUHFkc2pmRUE4SUxqU2RIMlZ3cEJVWFM3bzRmalk3QnZEd3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTk3MTkzCWZpbGU6QXRlbGlhIE5pZ2h0bHlfMC4xNi4wLXJjLjFfeDY0LXNldHVwLmV4ZQp6bHgxeC9IREpFN2Z1M1p3ZlhFQW1mNkhReE8xSzBnN3pPVnprNVllY3dDaGFJWnIzbmtIeXpTRFZwNk8wK0pUVUd0cmlOV1l5TlRWRk5jRDN1MktCQT09Cg==",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/nightly/Atelia.Nightly_0.16.0-rc.1_x64-setup.exe"
     }
   }
 }
