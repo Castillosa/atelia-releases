@@ -1,0 +1,19 @@
+{
+  "version": "0.25.0",
+  "notes": "Auto-build de Atelia. La app instalada se actualizará sola.",
+  "pub_date": "2026-07-28T10:45:25.222Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkFickF3Y3hZNEdwT3FGbmF5b1M3TGFLaTA0ZGh1M2Y0VFUzNXJBMkRqUGw2QURKVnd6REJtczdkcU91aFRPMzZQN3N4bFdCSXVsNlNHcUJnUTdiMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM1NTIwCWZpbGU6QXRlbGlhXzAuMjUuMF94NjRfZW4tVVMubXNpCmZuY25yTFBqYkMwWnlMZGdoaGpSaGdHMkJiWVdFeENicCtXOHZzMzZXbEU2K0ZuajhEQ2F4R1Q3L0hwUDB3QnArL3RrYzlhQStjU204UkdscFg5bkJ3PT0K",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.25.0/Atelia_0.25.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkFickF3Y3hZNEdwT3FGbmF5b1M3TGFLaTA0ZGh1M2Y0VFUzNXJBMkRqUGw2QURKVnd6REJtczdkcU91aFRPMzZQN3N4bFdCSXVsNlNHcUJnUTdiMVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM1NTIwCWZpbGU6QXRlbGlhXzAuMjUuMF94NjRfZW4tVVMubXNpCmZuY25yTFBqYkMwWnlMZGdoaGpSaGdHMkJiWVdFeENicCtXOHZzMzZXbEU2K0ZuajhEQ2F4R1Q3L0hwUDB3QnArL3RrYzlhQStjU204UkdscFg5bkJ3PT0K",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.25.0/Atelia_0.25.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkNRVDl2aWVFSjdCSkhRU2taQzRPRENQa0hLWkloWTllNFh4YjRmUDRmSkIyRFRIQWdDYnBVZzIybEpGR1FyenhqYm1tVkFTbTRxVlExdUhJdklqeHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjM1NTIwCWZpbGU6QXRlbGlhXzAuMjUuMF94NjQtc2V0dXAuZXhlCmdVdVZjZmxLY0tzTkxwSURGS2d5Q2JpdWFLMnJWWklvWndCYXhWZndRMk5qQ08zV1Q3UDFEQXM1UXViVnRVT3BVWFNua2c2MXVFRmQwc1F4TzYxZEFnPT0K",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.25.0/Atelia_0.25.0_x64-setup.exe"
+    }
+  }
+}
