@@ -1,19 +1,27 @@
 {
-  "version": "0.30.0",
+  "version": "1.0.0",
   "notes": "Auto-build de Atelia. La app instalada se actualizará sola.",
-  "pub_date": "2026-09-12T14:50:58.748Z",
+  "pub_date": "2026-10-29T17:04:13.032Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkxjdWN6V0VWUTdEQ3V3Y2NMUlpxWXBXN2g4MmU0bC9ZN045dlVUdVNQM3JSL2cvTHh1SnVvc0NRTzBUdk45RWRaMGx2R0YxTFBvR2JVN0Y4d2FzdndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjI0NjU0CWZpbGU6QXRlbGlhXzAuMzAuMF94NjRfZW4tVVMubXNpCnByeWlGOGxVcGpXQ09rK1A1TmN6ZXN5RmtiaEdrdDhzU1pERDJNN3hMckd1ODhIUWUxUVJRMkhrV0ZiL1VqcjFDOTNyQzJKbDV3em81aVI1RUJSckN3PT0K",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.30.0/Atelia_0.30.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk9UTUhnNi9pbjNWZW1ncE1lamdoNStqNW1oMWE2NStVK09xMnBLcVZhMzlPR1JJRTRTWXpqYVIwVUgrMDAxa2hrSk43a1VwbDJpTnJYemxkZUtwNVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzMDQwCWZpbGU6QXRlbGlhXzEuMC4wX3g2NF9lbi1VUy5tc2kKSDhkb0FTOXVIQWV1U2QydVo4TC9OcEVhem5Gb3BnQm0rdHphaS8zRU5tc3hONFNZVjcwck5BbkFTS3FlU3BEWDNQK3NzQ3JBRWUwb0liaGZZQXVnQVE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v1.0.0/Atelia_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkxjdWN6V0VWUTdEQ3V3Y2NMUlpxWXBXN2g4MmU0bC9ZN045dlVUdVNQM3JSL2cvTHh1SnVvc0NRTzBUdk45RWRaMGx2R0YxTFBvR2JVN0Y4d2FzdndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjI0NjU0CWZpbGU6QXRlbGlhXzAuMzAuMF94NjRfZW4tVVMubXNpCnByeWlGOGxVcGpXQ09rK1A1TmN6ZXN5RmtiaEdrdDhzU1pERDJNN3hMckd1ODhIUWUxUVJRMkhrV0ZiL1VqcjFDOTNyQzJKbDV3em81aVI1RUJSckN3PT0K",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.30.0/Atelia_0.30.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk9UTUhnNi9pbjNWZW1ncE1lamdoNStqNW1oMWE2NStVK09xMnBLcVZhMzlPR1JJRTRTWXpqYVIwVUgrMDAxa2hrSk43a1VwbDJpTnJYemxkZUtwNVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzMDQwCWZpbGU6QXRlbGlhXzEuMC4wX3g2NF9lbi1VUy5tc2kKSDhkb0FTOXVIQWV1U2QydVo4TC9OcEVhem5Gb3BnQm0rdHphaS8zRU5tc3hONFNZVjcwck5BbkFTS3FlU3BEWDNQK3NzQ3JBRWUwb0liaGZZQXVnQVE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v1.0.0/Atelia_1.0.0_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkxzaElLL1hucC9HTjRjOEd3eW9QK3IvaC82WkdQWEZ4OTN5cWFQcHB4WSt2NmxHRGI1NzZuUlE3U1ZtNWdJT0FHeFowNlV2YU5UazRBQnNkUmo0NEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjI0NjU0CWZpbGU6QXRlbGlhXzAuMzAuMF94NjQtc2V0dXAuZXhlClI1SHBGaGFURnBCL3RhNmZZQ1BRRmN0c0ozUTdHalJPOXhvZm9yNjE3SkUwNUhnM2h5Z1o2YmVpNUU5QkZmS1k2aDZ1VXRQNDY4Y2d6b3NvNUxYU0JnPT0K",
-      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v0.30.0/Atelia_0.30.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dk1QYmpBK1U0Y0cwZDF0SmRvSFVKdVl2Z2ZvZU8rUHNjQUVvOE1ZWDJYeEtJNlVwMTg4cFRTK3k2eGV5N1pDOVZwcTdtQkE1dVhmQzF2SnF5ZjZVVFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzMDQxCWZpbGU6QXRlbGlhXzEuMC4wX3g2NC1zZXR1cC5leGUKNnFhVGh0Rk93WDhyV2kwWm9UODBFTDRRVjlBZ0YwdEFQS3BSQmN0MXVEUytjMUh6OW5Ya2xMWEw3aWJVbndVdjJ6bENaZy91ZXJTdWlvY2RaSy9PQ2c9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v1.0.0/Atelia_1.0.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkpidzZxZFpTNDFSRnIxOGJXdXNZVnFIczNSOUZhWi9PbFFiUXVHS3M5VVh3NnJCUTNTWHFKbGFZSXIzNnlSSjd3TFgvN2htVkR4Z0ZzY1krRnNoTFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzNDQ3CWZpbGU6QXRlbGlhLmFwcC50YXIuZ3oKeFdsbzFKbnZLb3J6WE5XajV2ZzZnYjRQalR5UkhUZ0dHeGZLdW83MFdvKzJock9HODBJQWpoMFRWbnRVUlZKZit3TTRsOTFDYlBvb3ZwYWlXdFZBQVE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v1.0.0/Atelia_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGZ0OXF4Wk80dkpidzZxZFpTNDFSRnIxOGJXdXNZVnFIczNSOUZhWi9PbFFiUXVHS3M5VVh3NnJCUTNTWHFKbGFZSXIzNnlSSjd3TFgvN2htVkR4Z0ZzY1krRnNoTFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzNDQ3CWZpbGU6QXRlbGlhLmFwcC50YXIuZ3oKeFdsbzFKbnZLb3J6WE5XajV2ZzZnYjRQalR5UkhUZ0dHeGZLdW83MFdvKzJock9HODBJQWpoMFRWbnRVUlZKZit3TTRsOTFDYlBvb3ZwYWlXdFZBQVE9PQo=",
+      "url": "https://github.com/Castillosa/atelia-releases/releases/download/v1.0.0/Atelia_aarch64.app.tar.gz"
     }
   }
 }
