@@ -1,0 +1,27 @@
+# Avisa en #novedades del Discord de Atelia cada vez que sale una versión ESTABLE.
+# Las de pruebas (nightly, prerelease) no avisan: salen cada noche y llenarían el canal.
+# La URL del webhook está en el secreto DISCORD_WEBHOOK_NOVEDADES.
+name: Aviso en Discord
+
+on:
+  release:
+    types: [published]
+
+permissions: {}
+
+jobs:
+  avisar:
+    if: ${{ !github.event.release.prerelease && !github.event.release.draft }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publicar en #novedades
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_NOVEDADES }}
+          TAG: ${{ github.event.release.tag_name }}
+        run: |
+          VERSION="${TAG#v}"
+          jq -n --arg v "$VERSION" '{
+            username: "Atelia",
+            allowed_mentions: { parse: [] },
+            content: ("🎉 **Atelia " + $v + "** ya está disponible.\nSi ya tienes Atelia, se actualiza sola: cuando te avise, reinicia y listo. Si aún no la tienes, descárgala desde tu enlace de invitación.\nLo que trae cada versión lo ves dentro de la app, en «Qué hay de nuevo». Cualquier fallo, en <#1565397140644044931>.")
+          }' | curl -fsS -H "Content-Type: application/json" -d @- "$WEBHOOK"
